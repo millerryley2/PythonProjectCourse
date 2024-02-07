@@ -1,3 +1,3 @@
 # PythonProjectCourse
 
-Learning GitHub in the process of learning Python!
+Submitting the Final Assignment for the Analyzing Stock Performance assignment
